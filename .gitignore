@@ -24,12 +24,16 @@ train/
 train
 test/
 test
+val/
+val
+validation/
+validation
 dataset/
 datasets/
 data/
 *.zip
 *.tar.gz
 
-# Sample test images
+# Sample test/prediction images
 cat.jpg
 dog.jpg
